@@ -15,15 +15,15 @@ body {
 
 /* Style the header */
 header {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 1em;
 }
 
 /* Style the navigation menu */
 nav {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 1em;
 }
 
